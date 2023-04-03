@@ -12,7 +12,7 @@
 - [Collaborate](#collaborate)
 
 ## Author Details
-1. *Wendy Munyasi - wendymunyasi@gmail.com*
+1. *Benson Mogaka - bensonmogaka10@gmail.com*
 
 ##  Requirements
 *   Allowed editors: `vi`, `vim`, `emacs`.
@@ -735,4 +735,4 @@ The following tasks did not pass all checks: tasks 2, 3, 5, 9, 16, and 17.
 
 ### Collaborate
 
-To collaborate, reach me through the email addresses wendymunyasi@gmail.com.
+To collaborate, reach me through the email addresses bensonmogaka10@gmail.com.
